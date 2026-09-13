@@ -25,28 +25,7 @@ El sistema permite:
 
 ---
 
-## Requisitos Previos
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) instalado.
-- Terminal / Símbolo del sistema (PowerShell, CMD, Bash).
-
----
-
-## Cómo Clonar y Ejecutar
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/GestorVentasUnidad1.git
-cd GestorVentasUnidad1
-
-# 2. Compilar el proyecto
-dotnet build
-
-# 3. Ejecutar la aplicación
-dotnet run
-```
-
----
 
 ## Estructura del Proyecto
 
