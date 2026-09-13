@@ -4,7 +4,7 @@
 
 | Campo | Detalle |
 |---|---|
-| **Nombre completo** | Yojaner Sanjuan Mercado |
+| **Nombre completo** | Jhon Mateo Guette Vera |
 | **Módulo** | Unidad 1 — Fundamentos de C# (.NET 8) |
 | **Fecha** | Septiembre 2026 |
 
